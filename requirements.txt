@@ -1,0 +1,4 @@
+# No external dependencies required for this project
+# The project uses only Python standard library modules 
+Flask==3.0.2
+Werkzeug==3.0.1 
